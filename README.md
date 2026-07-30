@@ -37,10 +37,4 @@ those faded.
 
 ## Licence
 
-**None stated.** Without a licence this material is under copyright and
-nobody may redistribute it. If it is meant to be reusable, add a `LICENSE`
-and export again.
-
----
-
-Generated — do not edit by hand. See `MANIFEST.json`.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see `LICENSE`.
