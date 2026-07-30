@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you refer to this network, please cite it as below.
+title: The min-max route to finite extinction of Ricci flow
+abstract: >-
+  How sweepouts by 2-spheres force the Ricci flow with surgery to die in finite
+  time: the width, its evolution inequality, and the extinction they force. A
+  pre-formalization network — the argument in prose, with every statement it
+  turns on as a separate addressable card and the dependencies between those
+  statements as edges.
+type: dataset
+authors:
+  - given-names: Xinze
+    family-names: Li
+    alias: Xinze-Li-Moqian
+license: CC-BY-4.0
+repository-code: https://github.com/Xinze-Li-Moqian/CM-hypergraph
+keywords:
+  - ricci-flow
+  - minimal-surfaces
+  - 3-manifolds
+date-released: '2026-07-30'
