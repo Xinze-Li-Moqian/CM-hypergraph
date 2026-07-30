@@ -3,7 +3,6 @@ topic: minmax-ricci-flow-extinction
 type: topic
 section: "0"
 date: 2026-07-25
-authors: [Xinze-Li-Moqian]
 tags: [ricci-flow, minimal-surfaces, 3-manifolds]
 ---
 # The min-max route to finite extinction of Ricci flow
