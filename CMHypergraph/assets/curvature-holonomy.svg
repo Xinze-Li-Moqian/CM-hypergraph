@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" font-family="sans-serif" font-size="15">
+  <g stroke="currentColor" fill="none" stroke-width="1.8">
+    <path d="M140,240 L380,240 L420,80 L180,80 Z"/>
+    <line x1="140" y1="240" x2="140" y2="150" stroke-width="2.6"/>
+    <line x1="140" y1="240" x2="175" y2="158" stroke-width="2.6" stroke-dasharray="6 4"/>
+    <path d="M148,185 A40,40 0 0 1 163,188" stroke-width="1.2"/>
+  </g>
+  <g fill="currentColor">
+    <path d="M140,150 l-6,12 l12,0 z"/>
+    <path d="M175,158 l-11,7 l8,9 z"/>
+    <text x="115" y="135">v</text>
+    <text x="185" y="145">v after the loop</text>
+    <text x="235" y="270">parallel transport around the loop</text>
+    <text x="245" y="180" opacity="0.6">Rm(X,Y) = the rotation</text>
+  </g>
+</svg>

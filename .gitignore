@@ -1,0 +1,10 @@
+# Obsidian writes these when the vault is opened — one reader's screen,
+# not part of the network. The rest of .obsidian/ is generated and committed.
+.obsidian/workspace.json
+.obsidian/workspace.json.bak
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache/
+.trash/
+
+.DS_Store

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" font-family="sans-serif" font-size="15">
+  <g stroke="currentColor" fill="none" stroke-width="1.8">
+    <!-- before: dumbbell with thin neck -->
+    <path d="M60,120 C 60,70 160,70 175,105 C 190,112 230,112 245,105 C 260,70 360,70 360,120 C 360,170 260,170 245,135 C 230,128 190,128 175,135 C 160,170 60,170 60,120 Z"/>
+    <!-- cut spheres -->
+    <ellipse cx="187" cy="120" rx="5" ry="16" stroke-dasharray="3 3"/>
+    <ellipse cx="233" cy="120" rx="5" ry="16" stroke-dasharray="3 3"/>
+    <!-- after: two capped blobs -->
+    <path d="M560,120 C 560,70 650,70 668,105 C 690,110 690,130 668,135 C 650,170 560,170 560,120 Z"/>
+    <path d="M880,120 C 880,70 790,70 772,105 C 750,110 750,130 772,135 C 790,170 880,170 880,120 Z"/>
+  </g>
+  <g fill="currentColor">
+    <path d="M440,114 l28,6 l-28,6 z"/>
+    <text x="150" y="45">δ-neck inside an ε-horn</text>
+    <text x="600" y="45">caps glued, flow continues</text>
+    <text x="60"  y="215">curvature blows up in the neck</text>
+    <text x="560" y="215">components of known topology are discarded</text>
+  </g>
+  <g stroke="currentColor" stroke-width="1" opacity="0.6">
+    <line x1="196" y1="58" x2="196" y2="100"/>
+  </g>
+</svg>

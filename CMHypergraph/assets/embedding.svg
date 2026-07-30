@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 240" font-family="sans-serif" font-size="15">
+  <g stroke="currentColor" fill="none" stroke-width="2">
+    <circle cx="140" cy="110" r="60"/>
+    <path d="M330,110 C 330,40 450,180 450,110 C 450,40 330,180 330,110 Z"/>
+    <path d="M600,160 C 660,40 780,40 790,110 C 796,160 700,170 690,130 C 683,105 760,95 780,125"/>
+  </g>
+  <g fill="currentColor">
+    <text x="95"  y="205">embedded circle</text>
+    <text x="320" y="205">figure-eight: immersed,</text>
+    <text x="340" y="225">not injective</text>
+    <text x="600" y="205">spiraling in: injective,</text>
+    <text x="600" y="225">image topology wrong</text>
+  </g>
+</svg>
