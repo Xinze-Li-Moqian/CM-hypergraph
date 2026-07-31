@@ -18,7 +18,7 @@ The intrinsic curvature of a surface is its ambient curvature minus a bending te
 > $$
 > K_\Sigma \;=\; K_M \;+\; \det A .
 > $$
-> For a [[def-minimal-surface|minimal]] surface ($\operatorname{tr} A = 0$), $\det A = -\tfrac12 [[def-second-fundamental-form-norm|\lvert A\rvert^2]]$, so
+> For a [[def-minimal-surface|minimal]] surface ($\operatorname{tr} A = 0$), $\det A = -\tfrac12 \lvert A\rvert^2$, so
 > $$
 > K_\Sigma \;=\; K_M \;-\; \tfrac12 |A|^2 ,
 > $$
